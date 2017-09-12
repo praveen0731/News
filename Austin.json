@@ -1,0 +1,40 @@
+{
+	"subregion": {
+		"supportEmail": "support@twcnews.com",
+		"newsTipsEmail": "txnewsdesk@charter.com",
+		"subRegionName": "Austin",
+		"newsPixEmail": "txphotos@charter.com",
+		"subregionUrl": "/api/public/adp/twcnews/subregion?subregionId=20&hmac=vx&type=hls",
+		"subRegionId": 20,
+		"newsTipsFax": "512-531-1234",
+		"feedbackEmail": "txnewsdesk@charter.com",
+		"facebook": "facebook.com/ynnaustin",
+		"newsRoomAddress": "1708 Colorado St., Austin, TX 78701",
+		"twitter": "@SpecNewsATX",
+		"newsTipsPhone": "512-531-8800",
+		"weatherBlog": "http://www.twcnews.com/services/contentfeed.hero.full.tidy.json/tx/austin/weather/weather-stories"
+
+	},
+	"streams": [{
+		"resourceId": "twcnewstex",
+		"network": "Spectrum News Austin",
+		"callsign": "YNNAHD",
+		"streamingUrl": "/api/public/adp/70612/streams/sm/hls?csid=twcnewsapp_livetv",
+		"description": "Spectrum News Austin(YNNAHD, ID: 503)",
+		"logo": "http://www.twcnews.com/content/dam/mobileappconfigfiles/Images/SPNEWS.png"
+	}, {
+		"resourceId": "twcnewstex",
+		"network": "Spectrum News Austin Weather",
+		"callsign": "YNNW",
+		"streamingUrl": "/api/public/adp/500618/streams/sm/hls?csid=twcnewsapp_livetv",
+		"description": "Spectrum News Austin Weather(YNNW, ID: 2909)",
+		"logo": "http://www.twcnews.com/content/dam/mobileappconfigfiles/Images/SPNEWS.png"
+	}, {
+		"resourceId": "twcnewstex",
+		"network": "Spectrum News Austin Traffic",
+		"callsign": "YNNTHD",
+		"streamingUrl": "/api/public/adp/500616/streams/sm/hls?csid=twcnewsapp_livetv",
+		"description": "Spectrum News Austin Traffic(YNNTHD, ID: 2907)",
+		"logo": "http://www.twcnews.com/content/dam/mobileappconfigfiles/Images/SPNEWS.png"
+	}]
+}
