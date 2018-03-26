@@ -1,0 +1,14 @@
+{
+  "adTagSplash": "/6896/srsportsapp-sportsnetla/splash",
+  "adTagHome": "/6896/srsportsapp-sportsnetla",
+  "FAQ": "http://sportsnetla.engr2.webapps.rr.com/faq/jcr:content/main-website-content/columns/column0/simple_text.mobile.html",
+  "privacyPolicy": "http://sportsnetla.engr2.webapps.rr.com/privacy-policy/jcr:content/main-website-content/columns/column0/simple_text.mobile.html",
+  "termsOfUse": "http://sportsnetla.engr2.webapps.rr.com/terms-of-use/jcr:content/main-website-content/columns/column0/simple_text.mobile.html",
+  "vodContentFeed":"http://sportsnetla.engr2.webapps.rr.com/services/videofeed.json",
+  "statsApiUrl":"http://api.stats.com/v1/stats/baseball/mlb/scores/teams/243",
+  "topic":"season-2018",
+  "statsKey":"I0LCWg/eceFUGMVZe4cJRA==]FrsMOf9hE4U2gADajf2F8NfkMxELu0G3W0U3SQ0nqEs=",
+  "statsPwd":"FrHoe+5J9dnqbH+bGikrzw==]OFb/xhJ4S+NYK8/vahSPMA==",
+  "isVersionValid":true,
+  "aegisUrl":"https://662fee73-375b-46fa-9ffe-e87b7563ebb5.mock.pstmn.io"
+}
