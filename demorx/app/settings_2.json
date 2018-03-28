@@ -10,5 +10,6 @@
   "statsKey":"I0LCWg/eceFUGMVZe4cJRA==]FrsMOf9hE4U2gADajf2F8NfkMxELu0G3W0U3SQ0nqEs=",
   "statsPwd":"FrHoe+5J9dnqbH+bGikrzw==]OFb/xhJ4S+NYK8/vahSPMA==",
   "isVersionValid":true,
-  "aegisUrl":"https://662fee73-375b-46fa-9ffe-e87b7563ebb5.mock.pstmn.io"
+  "aegisUrl":"https://662fee73-375b-46fa-9ffe-e87b7563ebb5.mock.pstmn.io",
+  "isMockLocationAllowed":true
 }
